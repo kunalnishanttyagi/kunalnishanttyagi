@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Tyagi</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer and Competative programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalnishanttyagi&label=Profile%20views&color=0e75b6&style=flat" alt="kunalnishanttyagi" /> </p>
 
